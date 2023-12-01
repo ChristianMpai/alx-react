@@ -1,0 +1,27 @@
+    "context": {
+      "guid": "0f446b01-37c3-4884-9dc6-316f23b7711b",
+      "isRead": false,
+      "type": "urgent",
+      "value": "Elit eget gravida cum sociis natoque penatibus et. Congue mauris rhoncus aenean vel"
+    }
+  },
+  {
+    "id": "5debd764de9fa684468cdc0b",
+    "author": {
+      "id": "5debd764ec7c8d21449be7d7",
+      "name": {
+        "first": "Greta",
+        "last": "Benjamin"
+      },
+      "email": "greta.benjamin@holberton.nz",
+      "picture": "http://placehold.it/32x32",
+      "age": 23
+    },
+    "context": {
+      "guid": "4cc5bc3a-98fe-4392-b97d-6a41da1d944b",
+      "isRead": false,
+      "type": "default",
+      "value": "Leo vel fringilla est ullamcorper. Volutpat consequat mauris nunc congue"
+    }
+  }
+]
